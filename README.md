@@ -34,3 +34,6 @@ Model Evaluation
 Future Improvements
 - Try Random Forest & XGBoost
 - Feature importance analysis
+
+Author 
+Himana Yasmin K.
